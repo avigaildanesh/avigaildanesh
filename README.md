@@ -1,4 +1,4 @@
-##👋 Hi, I'm Avigail – a Computer Science student at Bar-Ilan University, about to complete my degree! I'm passionate about crafting innovative software solutions and love to learn new technologies to solve real-world problems. My expertise includes:
+👋 Hi, I'm Avigail – a Computer Science student at Bar-Ilan University, about to complete my degree! I'm passionate about crafting innovative software solutions and love to learn new technologies to solve real-world problems. My expertise includes:
 
 🛠 Proficient in React, Node.js, JavaScript, HTML, and CSS
 📱 Developed a WhatsApp project with web and Android applications - graded 98!
