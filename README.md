@@ -13,11 +13,12 @@ I'm passionate about crafting innovative software solutions and love to learn ne
 
 I'm also a dedicated team player, volunteer, and driven self-learner with a love for contributing to meaningful projects.
 
-### Let's connect and build something great together!
+### Let's connect and build something great together! 
+<br>
 <a href="https://www.linkedin.com/in/ofek-yemini-91792b254/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" width="90"/>
-</a>
-📧 avigaildanesh100@gmail.com  
-📱 0528982934
+</a><br>
+📧 avigaildanesh100@gmail.com <br> 
+📱 0528982934 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avigaildanesh&layout=compact)
