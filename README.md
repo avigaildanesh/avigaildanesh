@@ -17,4 +17,5 @@ I'm also a dedicated team player, volunteer, and driven self-learner with a love
 
 📧 avigaildanesh100@gmail.com  
 📱 0528982934
-Top Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avigaildanesh&layout=compact)
