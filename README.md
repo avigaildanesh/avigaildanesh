@@ -15,9 +15,9 @@ I'm also a dedicated team player, volunteer, and driven self-learner with a love
 
 ### Let's connect and build something great together! 
 <br>
-<a href="[https://www.linkedin.com/in/ofek-yemini-91792b254/](https://www.linkedin.com/in/avigail-yitzack-50a714254/)" target="_blank">
+<a href="[(https://www.linkedin.com/in/avigail-yitzack-50a714254/)](https://www.linkedin.com/in/avigail-yitzack-50a714254/)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" width="90"/>
-</a><br>
+</a>
 📧 avigaildanesh100@gmail.com <br> 
 📱 0528982934 <br>
 
