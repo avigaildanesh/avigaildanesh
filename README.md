@@ -13,7 +13,7 @@ I'm also a dedicated team player, volunteer, and driven self-learner with a love
 ### Let's connect and build something great together! 
 📧 avigaildanesh100@gmail.com <br> 
 📱 0528982934 <br>
-🔗 [LinkedIn](https://www.linkedin.com/in/avigail-yitzack-50a714254/)
+🔗 [LinkedIn](https://www.linkedin.com/in/avigail-yitzhak/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avigaildanesh&layout=compact)
 
