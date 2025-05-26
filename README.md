@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Avigail 
 
-## A Computer Science graduate from Bar-Ilan University
+## A Computer Science student at Bar-Ilan University
 
 I'm passionate about crafting innovative software solutions and love to learn new technologies to solve real-world problems. My expertise includes:
 
