@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Avigail 
+# Hi, I'm Avigail👋 
 
 ## A Computer Science student at Bar-Ilan University
 
