@@ -12,6 +12,4 @@ I'm passionate about crafting innovative software solutions and love to learn ne
 📱 0528982934 <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/avigail-yitzhak/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avigaildanesh&layout=compact)
-
 
